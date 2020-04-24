@@ -2,8 +2,16 @@
 
 ## Command Line Tools
 
-* [ladislas/Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-Project) - Arduino project template
-   - [leka/Arduino-Makefile/tree/master](https://github.com/leka/Arduino-Makefile/tree/master) - underlying Makefile, which seems very similar to [sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile).
+Using [ladislas/Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-Project):
+
+1. Install Homebrew and Git
+1. Install the [Arduino IDE](https://www.arduino.cc/en/main/software)
+1. Install the AVR command line tools:
+```
+brew tap osx-cross/avr
+brew install avr-gcc
+brew install avrdude
+```
    
 ### Others
 
