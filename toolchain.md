@@ -15,7 +15,6 @@ Toolchain install:
    ```
 1. Install the `pySerial` library:
    ```
-   pip install pyserial
    pip3 install pyserial
    ```
 Once the toolchain is installed:
