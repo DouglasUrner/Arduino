@@ -7,11 +7,11 @@ Using [ladislas/Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-P
 1. Install Homebrew and Git
 1. Install the [Arduino IDE](https://www.arduino.cc/en/main/software)
 1. Install the AVR command line tools:
-```
-brew tap osx-cross/avr
-brew install avr-gcc
-brew install avrdude
-```
+   ```bash
+   brew tap osx-cross/avr
+   brew install avr-gcc
+   brew install avrdude
+   ```
    
 ### Others
 
