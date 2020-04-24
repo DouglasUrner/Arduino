@@ -4,6 +4,7 @@
 
 Using [ladislas/Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-Project):
 
+Toolchain install:
 1. Install Homebrew and Git
 1. Install the [Arduino IDE](https://www.arduino.cc/en/main/software)
 1. Install the AVR command line tools:
@@ -12,7 +13,14 @@ Using [ladislas/Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-P
    brew install avr-gcc
    brew install avrdude
    ```
-   
+1. Install the `pySerial` library:
+   ```
+   pip install pyserial
+   pip3 install pyserial
+   ```
+Once the toolchain is installed:
+1. Clone the Bare-Arduino-Project repository.
+
 ### Others
 
 **[Arduino CLI][arduino-cli]**
