@@ -2,6 +2,8 @@
 
 ## Command Line Tools
 
+The Bare Arduino Project repository builds on [Arduino Makefile]().
+
 Using [ladislas/Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-Project):
 
 Toolchain install:
