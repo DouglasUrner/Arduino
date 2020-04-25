@@ -2,7 +2,7 @@
 
 ## Command Line Tools
 
-The Bare Arduino Project repository builds on [Arduino Makefile]().
+The Bare Arduino Project repository builds on [Arduino Makefile](). It may be worth forking the project and customizing your fork to match your preferences.
 
 Using [ladislas/Bare-Arduino-Project](https://github.com/ladislas/Bare-Arduino-Project):
 
